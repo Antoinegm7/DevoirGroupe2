@@ -1,0 +1,33 @@
+/* Footer Styles */
+.music-footer {
+  background-color: #1a1a1a;
+  color: #ffffff;
+  padding: 20px 0;
+}
+
+.music-footer a {
+  color: #FF6F7B;
+  text-decoration: none;
+}
+
+.music-footer a:hover {
+  text-decoration: underline;
+}
+
+.social-icons a img {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+
+.social-icons a:hover img {
+  opacity: 0.8;
+}
+
+.music-footer h5 {
+  color: #FF6F7B;
+}
+
+.music-footer p {
+  color: #cccccc;
+}
